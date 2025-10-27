@@ -1,0 +1,27 @@
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+test_linked_list
+
+# Simulation files
+sim/
+*.vcd
+*.vvp
+*.log
+
+# Editor backup files
+*~
+*.swp
+*.swo
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
