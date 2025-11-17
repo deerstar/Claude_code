@@ -1,0 +1,27 @@
+# 日志生成工具配置文件
+
+# 日志存储目录
+log_directory: "./logs"
+
+# 日期格式
+date_format: "%Y-%m-%d"
+chinese_date_format: "%Y年%m月%d日"
+
+# 日志模板
+template_file: "./templates/default_template.md"
+
+# 语言设置
+language: "zh-CN"
+
+# 自动保存设置
+auto_save: true
+
+# 默认工作时长（小时）
+default_work_hours: 8
+
+# 日志格式偏好
+preferences:
+  show_progress: true      # 显示项目进度
+  show_statistics: true    # 显示统计信息
+  show_time_spent: true    # 显示时间统计
+  show_next_plan: true     # 显示明日计划
