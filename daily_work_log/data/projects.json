@@ -1,0 +1,62 @@
+{
+  "projects": [
+    {
+      "id": "proj001",
+      "name": "以太网MAC控制器开发",
+      "description": "Verilog实现的完整以太网MAC控制器",
+      "progress": 75,
+      "status": "进行中",
+      "start_date": "2025-10-01",
+      "deadline": "2025-12-31",
+      "priority": "high",
+      "tasks": [
+        {
+          "name": "需求分析",
+          "status": "completed",
+          "completion_date": "2025-10-15"
+        },
+        {
+          "name": "设计方案",
+          "status": "completed",
+          "completion_date": "2025-10-25"
+        },
+        {
+          "name": "代码实现",
+          "status": "in_progress",
+          "progress": 80
+        },
+        {
+          "name": "测试验证",
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "proj002",
+      "name": "Sobel边缘检测算法",
+      "description": "Python实现的图像边缘检测",
+      "progress": 90,
+      "status": "进行中",
+      "start_date": "2025-11-10",
+      "deadline": "2025-11-30",
+      "priority": "medium",
+      "tasks": [
+        {
+          "name": "算法研究",
+          "status": "completed",
+          "completion_date": "2025-11-12"
+        },
+        {
+          "name": "代码实现",
+          "status": "completed",
+          "completion_date": "2025-11-15"
+        },
+        {
+          "name": "文档编写",
+          "status": "in_progress",
+          "progress": 60
+        }
+      ]
+    }
+  ]
+}

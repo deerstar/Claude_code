@@ -1,0 +1,35 @@
+{
+  "tasks": [
+    {
+      "id": "task001",
+      "content": "完成MAC控制器测试用例编写",
+      "project_id": "proj001",
+      "priority": "high",
+      "status": "pending",
+      "created_date": "2025-11-17",
+      "due_date": "2025-11-20",
+      "estimated_hours": 4
+    },
+    {
+      "id": "task002",
+      "content": "更新项目文档",
+      "project_id": "proj001",
+      "priority": "medium",
+      "status": "pending",
+      "created_date": "2025-11-17",
+      "due_date": "2025-11-18",
+      "estimated_hours": 2
+    },
+    {
+      "id": "task003",
+      "content": "准备周报",
+      "project_id": null,
+      "priority": "medium",
+      "status": "pending",
+      "created_date": "2025-11-17",
+      "due_date": "2025-11-18",
+      "estimated_hours": 1
+    }
+  ],
+  "completed_today": []
+}
